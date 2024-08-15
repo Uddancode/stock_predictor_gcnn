@@ -42,7 +42,6 @@ Later I took this code to integrate into **yfinance_find-stock-tickers-in-news-a
 **simplest_model_gcn_mlp_only-stock-prediction-cleaned.ipynb**
 
 
-Note: My Explanation of the code can be see on: https://www.youtube.com/playlist?list=PLUA7SYgJYDFoAmJSyCXtKwA1uw2ErFgEo
 
 **3. Data Files**
 -- Data files are kept in the data folder. The code usually loaded data in the beginning of the code.
@@ -50,9 +49,9 @@ Note: My Explanation of the code can be see on: https://www.youtube.com/playlist
 
 **4. Software/Tools Requirements**
 
-Anaconda Navigator (optional, I used this)
+Anaconda Navigator 
 
-Jupyter Notebook or a tool that can execute ipynb files
+Jupyter Notebook 
 
 
 Python <= 3.8, latest versions may not work as some libraries need earlier versions
